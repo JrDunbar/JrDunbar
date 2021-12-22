@@ -8,8 +8,7 @@ I'm in my mid 60's and a few years into retirement living.
 and learned the basics of machine language programming. The Commodore 64 and Apple 2 were hot stuff, and me along with most of the world had not even 
 the remotest idea of the impact computers would have in our lives.
 
-I see learning to code as a great way to keep my mind active and challenged as the years & miles begin to 
-be felt and a slower lifestyle reluctently becomes more necessary. For now its a hobby and like 40 years ago I have no idea of where 
+I see learning to code as a great way to keep my mind active and challenged. For now its a hobby and like 40 years ago I have no idea of where 
 it will lead.  
 
 Reach out to me here: jeff4449@icloud.com
